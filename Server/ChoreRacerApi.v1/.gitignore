@@ -1,0 +1,4 @@
+/bin/
+/wwwroot/
+/obj/
+*.db
